@@ -1,0 +1,193 @@
+{
+  "00-curtain": {
+    "widths": [
+      720,
+      900,
+      941
+    ],
+    "files": {
+      "720": "/images/00-curtain-720.916ee05a.webp",
+      "900": "/images/00-curtain-900.faa34060.webp",
+      "941": "/images/00-curtain-941.8fdd08db.webp"
+    },
+    "jpg": "/images/00-curtain-941.fa833a17.jpg",
+    "blur": "/images/00-curtain-blur.4f2e4e2e.jpg"
+  },
+  "01-cover": {
+    "widths": [
+      720,
+      900,
+      941
+    ],
+    "files": {
+      "720": "/images/01-cover-720.a140ef66.webp",
+      "900": "/images/01-cover-900.7b9eb7fe.webp",
+      "941": "/images/01-cover-941.382f2aa0.webp"
+    },
+    "jpg": "/images/01-cover-941.a4caf2be.jpg",
+    "blur": "/images/01-cover-blur.596b9c40.jpg",
+    "leaf": [
+      14.8,
+      14,
+      95.5,
+      85.2
+    ],
+    "text": [
+      {
+        "src": "/images/text/01-cover-0.0f6d517b.webp",
+        "w": 201,
+        "h": 279,
+        "kind": "logo",
+        "x": 44.722,
+        "y": 40.938,
+        "width": 18.611
+      }
+    ]
+  },
+  "02-bismillah": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/02-bismillah-720.4d3cd3a8.webp",
+      "900": "/images/02-bismillah-900.c3ddec54.webp",
+      "1080": "/images/02-bismillah-1080.3923739c.webp"
+    },
+    "jpg": "/images/02-bismillah-1080.5b5872df.jpg",
+    "blur": "/images/02-bismillah-blur.5f36ea55.jpg",
+    "leaf": [
+      7.3,
+      13.1,
+      93.6,
+      84
+    ]
+  },
+  "03-duniya": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/03-duniya-720.6cd62cd3.webp",
+      "900": "/images/03-duniya-900.5a8f54ba.webp",
+      "1080": "/images/03-duniya-1080.d9cd0ae8.webp"
+    },
+    "jpg": "/images/03-duniya-1080.eb9039ca.jpg",
+    "blur": "/images/03-duniya-blur.98ee6dee.jpg",
+    "leaf": [
+      8.2,
+      14,
+      93.7,
+      83.9
+    ]
+  },
+  "04-invitation": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/04-invitation-720.e32e7875.webp",
+      "900": "/images/04-invitation-900.53392cab.webp",
+      "1080": "/images/04-invitation-1080.5e3367ee.webp"
+    },
+    "jpg": "/images/04-invitation-1080.a0072782.jpg",
+    "blur": "/images/04-invitation-blur.fb9ea307.jpg",
+    "leaf": [
+      4.1,
+      11.1,
+      94,
+      87.8
+    ]
+  },
+  "05-nikah": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/05-nikah-720.276217ef.webp",
+      "900": "/images/05-nikah-900.2ea91314.webp",
+      "1080": "/images/05-nikah-1080.0899041f.webp"
+    },
+    "jpg": "/images/05-nikah-1080.e5856bad.jpg",
+    "blur": "/images/05-nikah-blur.8401c9e1.jpg",
+    "leaf": [
+      5.9,
+      10.2,
+      93.7,
+      84.2
+    ]
+  },
+  "06-reception": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/06-reception-720.642b0481.webp",
+      "900": "/images/06-reception-900.cd64bcc4.webp",
+      "1080": "/images/06-reception-1080.d34485b0.webp"
+    },
+    "jpg": "/images/06-reception-1080.9d67ff12.jpg",
+    "blur": "/images/06-reception-blur.594e6aa9.jpg",
+    "leaf": [
+      5.1,
+      9.9,
+      93.8,
+      83.9
+    ]
+  },
+  "07-awaiting": {
+    "widths": [
+      720,
+      900,
+      1080
+    ],
+    "files": {
+      "720": "/images/07-awaiting-720.5e669219.webp",
+      "900": "/images/07-awaiting-900.bb7e04ea.webp",
+      "1080": "/images/07-awaiting-1080.aba5237b.webp"
+    },
+    "jpg": "/images/07-awaiting-1080.31a8cb98.jpg",
+    "blur": "/images/07-awaiting-blur.dda6f71c.jpg",
+    "leaf": [
+      8.3,
+      14.1,
+      93.8,
+      84.3
+    ]
+  },
+  "08-back-cover": {
+    "widths": [
+      720,
+      900,
+      941
+    ],
+    "files": {
+      "720": "/images/08-back-cover-720.9e55e9cd.webp",
+      "900": "/images/08-back-cover-900.65a591b1.webp",
+      "941": "/images/08-back-cover-941.a4c0b42c.webp"
+    },
+    "jpg": "/images/08-back-cover-941.45d4ecc3.jpg",
+    "blur": "/images/08-back-cover-blur.8871b156.jpg"
+  },
+  "strands": {
+    "l": {
+      "src": "/images/strand-l.0aae2f18.webp",
+      "w": 126,
+      "h": 1350
+    },
+    "r": {
+      "src": "/images/strand-r.c664d6b7.webp",
+      "w": 126,
+      "h": 1349
+    }
+  }
+}
